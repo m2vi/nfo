@@ -1,0 +1,1 @@
+For this CLI, 2 files (libmediainfo.0.dylib, libmediainfo.dylib) may be needed, which for MacOS, for example, can be found in the table at DyLib on the website [mediaarea.net](https://mediaarea.net/en/MediaInfo/Download/Mac_OS) and have to be saved in the root directory of the CLI.
